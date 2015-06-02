@@ -1,10 +1,12 @@
-package com.markobudal.stormy;
+package com.markobudal.stormy.ui;
 
 import android.app.AlertDialog;
 import android.app.Dialog;
 import android.app.DialogFragment;
 import android.content.Context;
 import android.os.Bundle;
+
+import com.markobudal.stormy.R;
 
 /**
  * Created by markobudal on 22/05/15.
